@@ -2,6 +2,7 @@
 ## Summary of our Solution
 Our solution incuded two types of sensors in our payload; one being an acceleration sensor and the other being a compass. The accelerometer records data on the X, Y, and Z axes and the ZX and ZY planes. The compass records the degree from 0-359 in which the micro: Bit is facing relative to the Earth's magnetic feild. One of the micro: Bits streams this data to another that records the data in a computer. The simple enclosure is meant to hold the sender micro: Bit and its battery pack.
 * **Insert photos of revised sensor payload**
+![Sensor Payload](finalexample.jpg)
 ![Sheet data 1]()
 ![Sheet data 2]()
 ![Sheets graph 1]()
